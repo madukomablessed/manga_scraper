@@ -5,7 +5,7 @@ PROVIDER = "http://www.mangareader.net/"
 #PROVIDER = "https://www.crunchyroll.com/comics/manga/"
 
 #Download folder
-LOCAL_Path = "C:/Users/MADUKOMA BLESSED C/Pictures/Manga/"
+LOCAL_Path = "C:/Users/<your_user>/Pictures/Manga/" # Creates a folder called "Manga" in Pictures folder
 
 # Information displayed at the end of the download
 SUCCESS_Message = ""
